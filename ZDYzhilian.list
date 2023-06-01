@@ -1,1 +1,4 @@
+#csgo直连
 PROCESS-NAME,csgo.exe
+#知网直连
+DOMAIN-SUFFIX,cnki.net
