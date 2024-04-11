@@ -4,6 +4,5 @@ PROCESS-NAME,DriverBooster.exe
 DOMAIN-SUFFIX,pilewo.lol
 DOMAIN,sub.xeton.dev
 DOMAIN,api.dler.io
-DOMAIN,ts3.ren
-DOMAIN,wood.ts3.ren
-DOMAIN,hda4100.ts3.ren
+DOMAIN-SUFFIX,ts3.ren
+
