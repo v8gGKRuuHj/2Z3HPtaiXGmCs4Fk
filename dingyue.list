@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,fanyu.com
 DOMAIN-SUFFIX,niwota123.com
 DOMAIN-SUFFIX,cltt.org
 DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,youpin898.com
 DOMAIN-SUFFIX,carystudio.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,pinyuncloud.com
@@ -12,6 +11,8 @@ DOMAIN-SUFFIX,itihey.com
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,1.1.1.1
+DOMAIN-KEYWORD,youpin
+IP-CIDR,1.1.1.1,no-resolve
 DOMAIN,sub.xeton.dev
 DOMAIN,api.dler.io
 DOMAIN,cn.pool.ntp.org
