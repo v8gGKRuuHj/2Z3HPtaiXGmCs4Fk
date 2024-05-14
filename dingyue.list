@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,pinyuncloud.com
 DOMAIN-SUFFIX,itihey.com
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,nexconvert.com
-DOMAIN-SUFFIX,1.1.1.1
 DOMAIN-KEYWORD,youpin
 IP-CIDR,1.1.1.1,no-resolve
 DOMAIN,sub.xeton.dev
