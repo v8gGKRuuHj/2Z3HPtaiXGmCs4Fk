@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,itihey.com
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-KEYWORD,youpin
-IP-CIDR,1.1.1.1,no-resolve
 DOMAIN,sub.xeton.dev
 DOMAIN,api.dler.io
 DOMAIN,cn.pool.ntp.org
