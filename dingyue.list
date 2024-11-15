@@ -18,9 +18,12 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,iobit.com
-DOMAIN-KEYWORD,youpin
-DOMAIN-KEYWORD,nvidia
+DOMAIN-SUFFIX,clngaa.com
+DOMAIN-SUFFIX,manlaxy.com
 DOMAIN,sub.xeton.dev
 DOMAIN,api.dler.io
 DOMAIN,cn.pool.ntp.org
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,gstore.val.manlaxy.com
+DOMAIN,st.dl.eccdnx.com
 
