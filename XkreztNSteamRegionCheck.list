@@ -1,25 +1,21 @@
 # 内容：Steam判断所属区域的服务器列表
 # 数量：16条
 # 直连以下域名，可以使Steam地区定位到中国，使用中国CDN，提高下载速度，但可能会影响跨区
-# DOMAIN,cmp1-hkg1.steamserver.net
-# DOMAIN,cmp2-hkg1.steamserver.net
-# DOMAIN,cmp3-hkg1.steamserver.net
-# DOMAIN,cmp4-hkg1.steamserver.net
-# DOMAIN,cmp5-hkg1.steamserver.net
-# DOMAIN,cmp6-hkg1.steamserver.net
-# DOMAIN,cmp7-hkg1.steamserver.net
-# DOMAIN,cmp1-tyo3.steamserver.net
-# DOMAIN,cmp2-tyo3.steamserver.net
-# DOMAIN,cmp3-tyo3.steamserver.net
-# DOMAIN,cmp4-tyo3.steamserver.net
-# DOMAIN,cmp1-sgp1.steamserver.net
-# DOMAIN,cmp2-sgp1.steamserver.net
-# DOMAIN,cmp3-sgp1.steamserver.net
-# DOMAIN,cmp4-sgp1.steamserver.net
-# DOMAIN,cmp1-lax1.steamserver.net
-# DOMAIN,cmp2-lax1.steamserver.net
+DOMAIN,cmp1-hkg1.steamserver.net
+DOMAIN,cmp2-hkg1.steamserver.net
+DOMAIN,cmp3-hkg1.steamserver.net
+DOMAIN,cmp4-hkg1.steamserver.net
+DOMAIN,cmp5-hkg1.steamserver.net
+DOMAIN,cmp6-hkg1.steamserver.net
+DOMAIN,cmp7-hkg1.steamserver.net
+DOMAIN,cmp1-tyo3.steamserver.net
+DOMAIN,cmp2-tyo3.steamserver.net
+DOMAIN,cmp3-tyo3.steamserver.net
+DOMAIN,cmp4-tyo3.steamserver.net
+DOMAIN,cmp1-sgp1.steamserver.net
+DOMAIN,cmp2-sgp1.steamserver.net
+DOMAIN,cmp3-sgp1.steamserver.net
+DOMAIN,cmp4-sgp1.steamserver.net
+DOMAIN,cmp1-lax1.steamserver.net
+DOMAIN,cmp2-lax1.steamserver.net
 
-DOMAIN-SUFFIX,hkg1.steamserver.net
-DOMAIN-SUFFIX,tyo3.steamserver.net
-DOMAIN-SUFFIX,sgp1.steamserver.net
-DOMAIN-SUFFIX,lax1.steamserver.net
