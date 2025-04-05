@@ -1,8 +1,7 @@
 # 内容：Steam判断所属区域的服务器列表
-# 数量：16条
 # 直连以下域名，可以使Steam地区定位到中国，使用中国CDN，提高下载速度，但可能会影响跨区
+# 注意域名格式变化，若发生变化即时修改！！  2024年格式：ext1-hkg1.steamserver.net  2025年格式：cmp1-hkg1.steamserver.net
 
-# 注意域名格式变化，若发生变化即时修改！！2024年格式 
 DOMAIN,cmp1-hkg1.steamserver.net
 DOMAIN,cmp2-hkg1.steamserver.net
 DOMAIN,cmp3-hkg1.steamserver.net
@@ -20,4 +19,3 @@ DOMAIN,cmp3-sgp1.steamserver.net
 DOMAIN,cmp4-sgp1.steamserver.net
 DOMAIN,cmp1-lax1.steamserver.net
 DOMAIN,cmp2-lax1.steamserver.net
-
